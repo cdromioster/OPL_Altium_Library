@@ -1,3 +1,7 @@
+This is the port of Seeed-Studio's OPL_Eagle_Library For Circuit Studio and Altium Designer
+<b>[Seeed Fusion PCBA Open Parts Library: Component Library for Autodesk Eagle](https://github.com/Seeed-Studio/OPL_Eagle_Library)</b>
+
+
 # Seeed Fusion PCBA Open Parts Library: Component Library for Autodesk Eagle
 
 The Seeed Fusion Open Parts Libraries (OPL) and the associated component libraries are provided and maintained by the <b>[Seeed Studio Fusion](https://www.seeedstudio.com/fusion.html)</b> team and the wider community for the turnkey <b>[Seeed Fusion PCB Assembly (PCBA) Service](https://www.seeedstudio.com/prototype-pcb-assembly.html)</b>. The OPL is a catalog of over 10,000 locally sourced components that can reduce costs and cut the production time of turnkey PCB assembly to just 7 working days. Find out more about the <b>[Seeed Fusion PCBA service](https://www.seeedstudio.com/fusion.html)</b>. The catalog of available parts can be found <b>[here](https://www.seeedstudio.com/opl.html)</b>.
